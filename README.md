@@ -154,10 +154,6 @@ def model_gaussian_kernel(new_x, data_x, data_y, beta=2.0):
 
 In [99]:
 
-```python
-pred = model_gaussian_kernel(np.array([0.0,1.0]), data_x, data_y, beta=2.0)
-```
-
 ### 3. 実行してみる
 
 In [100]:
